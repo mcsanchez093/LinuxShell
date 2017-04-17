@@ -1,5 +1,5 @@
 /*
-Scott Rainville, Dolan Metcalf, Sean Cashman
+Scott Rainville
 CSI-230-04
 Recreation of UNIX "groups" command
 Usage: './groups [usernames]'
