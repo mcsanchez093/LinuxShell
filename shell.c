@@ -1,7 +1,5 @@
 /*
 Scott Rainville
-Sean Cashman
-Dolan Metcalf
 CSI230
 Shell Source Code
 
