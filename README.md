@@ -11,4 +11,4 @@ Known Bugs:
 -ls -l command may display incorrect date
 -occasional zombie processes or crashes
 
-This program was written for my Linux/UNIX programming class under time constraints and is therefore not perfected.
+These programs were written for my Linux/UNIX programming class under time constraints and therefore have not been perfected.
